@@ -1,2 +1,2 @@
-# Class-22
-Used physics to create ground and objects
+# staticSquare
+A static square made using Matter.js physics engine
